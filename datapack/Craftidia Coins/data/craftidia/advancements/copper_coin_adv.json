@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "craftidia:copper_coin"
+            }
+        }
+    },
+    "rewards": {
+        "function": "craftidia:give_copper_coin"
+    }
+}
