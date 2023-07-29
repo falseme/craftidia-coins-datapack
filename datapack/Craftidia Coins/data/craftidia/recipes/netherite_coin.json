@@ -1,0 +1,7 @@
+{
+    "type": "blasting",
+    "ingredient": {
+        "item": "netherite_ingot"
+    },
+    "result": "knowledge_book"
+}

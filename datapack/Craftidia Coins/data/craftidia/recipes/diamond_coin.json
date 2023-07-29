@@ -1,0 +1,7 @@
+{
+    "type": "blasting",
+    "ingredient": {
+        "item": "diamond"
+    },
+    "result": "knowledge_book"
+}
