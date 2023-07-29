@@ -15,6 +15,54 @@
         "custom_model_data": 1694202
       },
       "model": "coins/copper_coin_pile"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1694203
+      },
+      "model": "coins/iron_coin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1694204
+      },
+      "model": "coins/iron_coin_pile"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1694205
+      },
+      "model": "coins/gold_coin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1694206
+      },
+      "model": "coins/gold_coin_pile"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1694207
+      },
+      "model": "coins/diamond_coin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1694208
+      },
+      "model": "coins/diamond_coin_pile"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1694209
+      },
+      "model": "coins/netherite_coin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1694210
+      },
+      "model": "coins/netherite_coin_pile"
     }
   ]
 }
