@@ -2,5 +2,19 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/netherite_ingot"
-  }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1694201
+      },
+      "model": "coins/netherite_coin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1694202
+      },
+      "model": "coins/netherite_coin_pile"
+    }
+  ]
 }

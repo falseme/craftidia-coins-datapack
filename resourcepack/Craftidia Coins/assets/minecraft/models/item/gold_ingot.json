@@ -2,5 +2,19 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/gold_ingot"
-  }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1694201
+      },
+      "model": "coins/gold_coin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1694202
+      },
+      "model": "coins/gold_coin_pile"
+    }
+  ]
 }
