@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Loaded ","color":"gold"},{"text":"Craftidia Coins","bold":true,"color":"dark_green"}]
